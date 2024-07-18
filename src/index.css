@@ -1,0 +1,38 @@
+body {
+    background-color: #202020;
+}
+
+.custom-color {
+    background-color: #171717;
+}
+i {
+    color: #005dcb;
+    margin-right: 5px;
+}
+.navbar>.container,
+.navbar>.container-fluid,
+.navbar>.container-lg,
+.navbar>.container-md,
+.navbar>.container-sm,
+.navbar>.container-xl,
+.navbar>.container-xxl
+{
+    justify-content: flex-start;
+}
+/* --container-bg: #171717; */
+/*  blue #005dcb*/
+.w-60 {
+    width: 60%;
+}
+
+.w-48 {
+    width: 48%;
+}
+
+.table-dark {
+    --bs-table-bg: #171717;
+}
+
+.table-hover {
+    cursor: pointer;
+}
